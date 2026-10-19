@@ -1,4 +1,4 @@
-.devcontainer.jsonpackage br.edu.fatecfranca.api.model;
+package br.edu.fatecfranca.api.models;
 
 
 
